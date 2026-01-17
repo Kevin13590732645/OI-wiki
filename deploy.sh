@@ -11,4 +11,4 @@ git add .
 git commit -m "Update content"
 git push origin main
 
-echo "部署完成！访问：https://你的用户名.github.io/OI-wiki/"
+echo "部署完成！访问：https://Kevin13590732645.github.io/OI-wiki/"
